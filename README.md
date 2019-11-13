@@ -1,2 +1,0 @@
-# techub
-techub website
